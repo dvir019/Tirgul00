@@ -1,3 +1,3 @@
 public class Hello {
-    int x = 21;
+    int x = 15;
 }
